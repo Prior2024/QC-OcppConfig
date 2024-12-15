@@ -1,0 +1,5717 @@
+[
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "websocketUrl",
+      "VALUE": "ws://192.168.20.150:6969"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "webSocketPongTimeout",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "WebSocketPingInterval",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "UpdateFirmwareExplicitFtps",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "UnlockConnectorOnEVSideDisconnect",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "TransactionMessageRetryInterval",
+      "VALUE": 60
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "TransactionMessageAttempts",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "SupportedFileTransferProtocols",
+      "VALUE": "FTP,SFTP,FTPS"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "SupportedFeatureProfilesMaxLength",
+      "VALUE": 5
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "SupportedFeatureProfiles",
+      "VALUE": "LocalAuthListManagement,SmartCharging,Core,RemoteTrigger,FirmwareManagement"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "StopTxnSampledDataMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "StopTxnSampledData",
+      "VALUE": "Current.Import,Current.Offered,Energy.Active.Import.Register,Power.Active.Import,Power.Offered,SoC,Temperature.L1,Temperature.L1-N,Temperature.L2,Temperature.L2-N,Temperature.L3,Temperature.N,Voltage"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "StopTxnAlignedData",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "StopTransactionOnInvalidId",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "StopTransactionMaxMeterValues",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "stop.internal.powerModuleFailure",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "skipHeartbeatAfterAnotherPDU",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "SignedUpdateFirmwareExplicitFtps",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "setDiagnosticsLevel",
+      "VALUE": "Communication"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "SendLocalListMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "SecurityProfile",
+      "VALUE": 2
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "RetryBackOffRepeatTimes",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "RetryBackOffRandomRange",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "ResetRetries",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "ReserveConnectorZeroSupported",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "reconnectInterval",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "PnC.EvseV2GCertConfig",
+      "VALUE": "C=DE,O=IONITY GmbH,CN=HU*IOY*E234401,DC=CPO"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "PnC.EvseChargingStationCertConfig",
+      "VALUE": "C=DE,O=IONITY GmbH,CN=HU*IOY*E234401"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "PnC.enableH2bExtension",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "offlineThreshold",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "occupancyNotificationEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "occupancy.charger.window.min",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "occupancy.charger.window.max",
+      "VALUE": 6000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "occupancy.charger.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "occupancy.charger.delay",
+      "VALUE": 20
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "occupancy.charger.amplitude",
+      "VALUE": 500
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "NumberOfConnectors",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "MT.TxSampleInterval",
+      "VALUE": 300
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "MT.IdleSensorList",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "MT.IdleSampleInterval",
+      "VALUE": 300
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "minOccupancyStateHoldTime",
+      "VALUE": 20
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "MinimumStatusDuration",
+      "VALUE": 2
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "MeterValuesSampledDataMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "MeterValuesSampledData",
+      "VALUE": "Current.Import,Current.Offered,Energy.Active.Import.Register,Power.Active.Import,Power.Offered,SoC,Temperature.L1,Temperature.L1-N,Temperature.L2,Temperature.L2-N,Temperature.L3,Temperature.N,Voltage"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "MeterValueSampleInterval",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "MeterValuesAlignedDataMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "MeterValuesAlignedData",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "MessageTimeout",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "MaxEnergyOnInvalidId",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "MaxChargingProfilesInstalled",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "maintenance.idToken",
+      "VALUE": "mmodetoken"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "maintenance.idleDeactivateTimeout",
+      "VALUE": 300
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "maintenance.enterOnNextReboot",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "maintenance.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "LocalPreAuthorize",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "LocalAuthorizeOffline",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "LocalAuthListMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "LocalAuthListEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "ISO15118PnCEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "initialConnectionWaitInterval",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.welcomeScreenSelection",
+      "VALUE": "HMI_ThermalStructure_navy.jpg"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "hmi.speaker.volume",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.sitePartnerLogo",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.screenTimeoutShort",
+      "VALUE": 5
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.screenTimeoutLong",
+      "VALUE": 60
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.qrCodePayment",
+      "VALUE": "https://ionity.eu/en/network/access-and-payment"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.minHoldTimeScreen",
+      "VALUE": 2
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "hmi.media.version",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.LanguagesList.selectable",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.LanguagesList",
+      "VALUE": "cs,da,de,en,es,et,fi,fr,hr,hu,it,lt,lv,nl,no,pl,pt,sk,sl,sv"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "hmi.halo.forced.scene.duration",
+      "VALUE": 15
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.EuLogoDisplayed",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.directPaymentUnit",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.directPaymentPrice",
+      "VALUE": 280
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.directPaymentCurrency",
+      "VALUE": "HUF"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.defaultLanguageTimeout",
+      "VALUE": 60
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.defaultLanguage",
+      "VALUE": "hu"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.chargeToGo",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HMI.background",
+      "VALUE": "HMI_NavyBackground.jpg"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "HeartbeatInterval",
+      "VALUE": 120
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "GetDiagnosticsExplicitFtps",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "GetDiagnosticsEncryptedDiagnosticsFile",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "GetConfigurationMaxKeys",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "freeModeIdToken",
+      "VALUE": "7bb21b20aa"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "freeModeEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.zeroPower.start",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.zeroPower.restart",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.zeroPower.defaultAction",
+      "VALUE": "Stop"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.timeout.connect",
+      "VALUE": 30000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.timeout.communication",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.target.soc.value",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.target.soc.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.target.price.value",
+      "VALUE": 100000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.target.price.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.target.price.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.target.price.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.target.energy.value",
+      "VALUE": 200000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.target.energy.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.target.energy.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.target.energy.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.target.duration.value",
+      "VALUE": 86400
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.target.duration.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.start.defaultAction",
+      "VALUE": "Charging"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.pnc.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.tls.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.tls.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.tls.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.tls.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.tls.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.pnc.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.pnc.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.pnc.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.pnc.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.pnc.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.max",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.init.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.init.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.init.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.init.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.init.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.charging.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.charging.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.charging.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.charging.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.fallback.charging.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.eim.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.policy.communication.onPlug",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.mt.txsensorlist",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.ccs.iso1.EVSEID",
+      "VALUE": "ZZ00000"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "evse.1.ccs.din1.EVSEID",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "EvInfoMacAddressLength",
+      "VALUE": -1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "EvInfoEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.tariffUnit03",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.tariffUnit02",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.tariffUnit01",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.tariffPrice03",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.tariffPrice02",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.tariffPrice01",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.tariffId03",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.tariffId02",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.tariffId01",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.tariffCurrency03",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.tariffCurrency02",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.tariffCurrency01",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.PublicKey",
+      "VALUE": "3059301306072A8648CE3D020106082A8648CE3D030107034200049637EE4C30A3D9C7BC6F1A43F22C6E407F16B055183FDBF828601F6312CEC512467B22C0075DDF6E3CF03E02732710ED3D482D06AB890D540B51C15C2300D822"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.includePublicKeyInStopTx",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.HexifySignedData",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.fallbackInvalidStatus",
+      "VALUE": "OutOfOrder"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.fallbackError",
+      "VALUE": "OutOfOrder"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "DCMeter.EnableSignedData",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "CpoName",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "ContractValidationOffline",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.zeroPower.start",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.zeroPower.restart",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.zeroPower.defaultAction",
+      "VALUE": "Stop"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.timeout.connect",
+      "VALUE": 30000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.timeout.communication",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.target.soc.value",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.target.soc.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.target.price.value",
+      "VALUE": 100000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.target.price.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.target.price.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.target.price.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.target.energy.value",
+      "VALUE": 200000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.target.energy.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.target.energy.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.target.energy.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.target.duration.value",
+      "VALUE": 86400
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.target.duration.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.start.defaultAction",
+      "VALUE": "Charging"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.pnc.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.tls.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.tls.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.tls.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.tls.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.tls.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.pnc.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.pnc.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.pnc.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.pnc.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.pnc.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.max",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.init.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.init.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.init.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.init.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.init.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.charging.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.charging.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.charging.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.charging.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.fallback.charging.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.eim.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.policy.communication.onPlug",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.mt.txsensorlist",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.ccs.iso1.EVSEID",
+      "VALUE": "ZZ00000"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "connector.1.ccs.din1.EVSEID",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "ConnectionTimeOut",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "ClockAlignedDataInterval",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charging.session.error.persistence",
+      "VALUE": "Unplug"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "ChargingScheduleMaxPeriods",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "ChargingScheduleAllowedChargingRateUnit",
+      "VALUE": "Power"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.serialNumber",
+      "VALUE": "QP-4945-0123-350-121-ION"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.zeroPower.start",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.zeroPower.restart",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.zeroPower.defaultAction",
+      "VALUE": "Stop"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.timeout.connect",
+      "VALUE": 30000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.timeout.communication",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.target.soc.value",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.target.soc.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.target.price.value",
+      "VALUE": 100000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.target.price.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.target.price.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.target.price.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.target.energy.value",
+      "VALUE": 200000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.target.energy.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.target.energy.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.target.energy.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.target.duration.value",
+      "VALUE": 86400
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.target.duration.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.start.select",
+      "VALUE": "Smart"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.start.defaultAction",
+      "VALUE": "Charging"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.pnc.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.tls.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.tls.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.tls.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.tls.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.tls.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.pnc.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.pnc.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.pnc.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.pnc.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.pnc.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.max",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.init.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.init.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.init.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.init.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.init.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.charging.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.charging.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.charging.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.charging.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.fallback.charging.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.eim.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.policy.communication.onPlug",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.mt.txsensorlist",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "ChargerId",
+      "VALUE": "QP-4945"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.ccs.iso1.EVSEID",
+      "VALUE": "ZZ00000"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "charger.ccs.din1.EVSEID",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "ChargeProfileMaxStackLevel",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "CertSigningWaitMinimum",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "CertSigningRepeatTimes",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "CertificateStoreMaxLength",
+      "VALUE": 50
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "CertificateSignedMaxChainSize",
+      "VALUE": 10000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "CentralContractValidationAllowed",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "basicAuthUser",
+      "VALUE": "QP-4945"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "AuthorizeRemoteTxRequests",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "AuthorizationKeyHexadecimalEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "AuthorizationKey",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "authorization.idToken.MacAddress.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "authorization.idToken.Local.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "authorization.idToken.KeyCode.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "authorization.idToken.ISO15693.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "authorization.idToken.ISO14443.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "authorization.idToken.eMAID.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "authorization.idToken.Central.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "authorization.factor.rfid",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "authorization.factor.pnc",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "authorization.factor.evccid",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "AuthorizationCacheEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "alwaysUsePnCWhenAvailable",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "AllowOfflineTxForUnknownId",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #01",
+      "PARAMETER": "activation.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "activation.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "AllowOfflineTxForUnknownId",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "alwaysUsePnCWhenAvailable",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "AuthorizationCacheEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "authorization.factor.evccid",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "authorization.factor.pnc",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "authorization.factor.rfid",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "authorization.idToken.Central.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "authorization.idToken.eMAID.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "authorization.idToken.ISO14443.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "authorization.idToken.ISO15693.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "authorization.idToken.KeyCode.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "authorization.idToken.Local.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "authorization.idToken.MacAddress.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "AuthorizationKey",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "AuthorizationKeyHexadecimalEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "AuthorizeRemoteTxRequests",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "basicAuthUser",
+      "VALUE": "QP-4965"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "CentralContractValidationAllowed",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "CertificateSignedMaxChainSize",
+      "VALUE": 10000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "CertificateStoreMaxLength",
+      "VALUE": 50
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "CertSigningRepeatTimes",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "CertSigningWaitMinimum",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "ChargeProfileMaxStackLevel",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.ccs.din1.EVSEID",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.ccs.iso1.EVSEID",
+      "VALUE": "ZZ00000"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "ChargerId",
+      "VALUE": "QP-4965"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.mt.txsensorlist",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.communication.onPlug",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.eim.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.charging.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.charging.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.charging.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.charging.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.charging.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.init.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.init.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.init.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.init.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.init.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.max",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.pnc.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.pnc.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.pnc.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.pnc.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.pnc.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.tls.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.tls.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.tls.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.tls.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.fallback.tls.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.pnc.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.start.defaultAction",
+      "VALUE": "Charging"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.start.select",
+      "VALUE": "Smart"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.target.duration.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.target.duration.value",
+      "VALUE": 86400
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.target.energy.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.target.energy.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.target.energy.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.target.energy.value",
+      "VALUE": 200000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.target.price.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.target.price.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.target.price.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.target.price.value",
+      "VALUE": 100000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.target.soc.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.target.soc.value",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.timeout.communication",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.timeout.connect",
+      "VALUE": 30000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.zeroPower.defaultAction",
+      "VALUE": "Stop"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.zeroPower.restart",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.policy.zeroPower.start",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charger.serialNumber",
+      "VALUE": "QP-4965-0123-350-121-ION"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "ChargingScheduleAllowedChargingRateUnit",
+      "VALUE": "Power"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "ChargingScheduleMaxPeriods",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "charging.session.error.persistence",
+      "VALUE": "Unplug"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "ClockAlignedDataInterval",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "ConnectionTimeOut",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.ccs.din1.EVSEID",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.ccs.iso1.EVSEID",
+      "VALUE": "ZZ00000"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.mt.txsensorlist",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.communication.onPlug",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.eim.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.charging.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.charging.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.charging.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.charging.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.charging.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.init.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.init.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.init.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.init.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.init.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.max",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.pnc.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.pnc.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.pnc.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.pnc.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.pnc.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.tls.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.tls.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.tls.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.tls.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.fallback.tls.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.pnc.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.start.defaultAction",
+      "VALUE": "Charging"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.target.duration.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.target.duration.value",
+      "VALUE": 86400
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.target.energy.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.target.energy.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.target.energy.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.target.energy.value",
+      "VALUE": 200000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.target.price.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.target.price.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.target.price.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.target.price.value",
+      "VALUE": 100000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.target.soc.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.target.soc.value",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.timeout.communication",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.timeout.connect",
+      "VALUE": 30000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.zeroPower.defaultAction",
+      "VALUE": "Stop"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.zeroPower.restart",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "connector.1.policy.zeroPower.start",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "ContractValidationOffline",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "CpoName",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.EnableSignedData",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.fallbackError",
+      "VALUE": "OutOfOrder"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.fallbackInvalidStatus",
+      "VALUE": "OutOfOrder"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.HexifySignedData",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.includePublicKeyInStopTx",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.PublicKey",
+      "VALUE": "3059301306072A8648CE3D020106082A8648CE3D030107034200041314EBACBA2D5959631CB9A2A4B565A37B15D63E7061EF56FB0E5807494CCB9006F48E3970BAE71A648518C60F55616766B77E6CC24C47AA47B06C609D482426"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.tariffCurrency01",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.tariffCurrency02",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.tariffCurrency03",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.tariffId01",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.tariffId02",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.tariffId03",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.tariffPrice01",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.tariffPrice02",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.tariffPrice03",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.tariffUnit01",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.tariffUnit02",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "DCMeter.tariffUnit03",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "EvInfoEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "EvInfoMacAddressLength",
+      "VALUE": -1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.ccs.din1.EVSEID",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.ccs.iso1.EVSEID",
+      "VALUE": "ZZ00000"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.mt.txsensorlist",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.communication.onPlug",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.eim.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.charging.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.charging.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.charging.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.charging.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.charging.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.init.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.init.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.init.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.init.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.init.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.max",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.pnc.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.pnc.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.pnc.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.pnc.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.pnc.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.tls.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.tls.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.tls.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.tls.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.fallback.tls.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.pnc.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.start.defaultAction",
+      "VALUE": "Charging"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.target.duration.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.target.duration.value",
+      "VALUE": 86400
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.target.energy.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.target.energy.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.target.energy.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.target.energy.value",
+      "VALUE": 200000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.target.price.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.target.price.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.target.price.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.target.price.value",
+      "VALUE": 100000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.target.soc.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.target.soc.value",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.timeout.communication",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.timeout.connect",
+      "VALUE": 30000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.zeroPower.defaultAction",
+      "VALUE": "Stop"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.zeroPower.restart",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "evse.1.policy.zeroPower.start",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "freeModeEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "freeModeIdToken",
+      "VALUE": "7bb21b20aa"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "GetConfigurationMaxKeys",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "GetDiagnosticsEncryptedDiagnosticsFile",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "GetDiagnosticsExplicitFtps",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HeartbeatInterval",
+      "VALUE": 120
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.background",
+      "VALUE": "HMI_NavyBackground.jpg"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.chargeToGo",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.defaultLanguage",
+      "VALUE": "hu"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.defaultLanguageTimeout",
+      "VALUE": 60
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.directPaymentCurrency",
+      "VALUE": "HUF"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.directPaymentPrice",
+      "VALUE": 280
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.directPaymentUnit",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.EuLogoDisplayed",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "hmi.halo.forced.scene.duration",
+      "VALUE": 15
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.LanguagesList",
+      "VALUE": "cs,da,de,en,es,et,fi,fr,hr,hu,it,lt,lv,nl,no,pl,pt,sk,sl,sv"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.LanguagesList.selectable",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "hmi.media.version",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.minHoldTimeScreen",
+      "VALUE": 2
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.qrCodePayment",
+      "VALUE": "https://ionity.eu/en/network/access-and-payment"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.screenTimeoutLong",
+      "VALUE": 60
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.screenTimeoutShort",
+      "VALUE": 5
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.sitePartnerLogo",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "hmi.speaker.volume",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "HMI.welcomeScreenSelection",
+      "VALUE": "HMI_ThermalStructure_navy.jpg"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "initialConnectionWaitInterval",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "ISO15118PnCEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "LocalAuthListEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "LocalAuthListMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "LocalAuthorizeOffline",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "LocalPreAuthorize",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "maintenance.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "maintenance.enterOnNextReboot",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "maintenance.idleDeactivateTimeout",
+      "VALUE": 300
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "maintenance.idToken",
+      "VALUE": "mmodetoken"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "MaxChargingProfilesInstalled",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "MaxEnergyOnInvalidId",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "MessageTimeout",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "MeterValuesAlignedData",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "MeterValuesAlignedDataMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "MeterValueSampleInterval",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "MeterValuesSampledData",
+      "VALUE": "Current.Import,Current.Offered,Energy.Active.Import.Register,Power.Active.Import,Power.Offered,SoC,Temperature.L1,Temperature.L1-N,Temperature.L2,Temperature.L2-N,Temperature.L3,Temperature.N,Voltage"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "MeterValuesSampledDataMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "MinimumStatusDuration",
+      "VALUE": 2
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "minOccupancyStateHoldTime",
+      "VALUE": 20
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "MT.IdleSampleInterval",
+      "VALUE": 300
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "MT.IdleSensorList",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "MT.TxSampleInterval",
+      "VALUE": 300
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "NumberOfConnectors",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "occupancy.charger.amplitude",
+      "VALUE": 500
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "occupancy.charger.delay",
+      "VALUE": 20
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "occupancy.charger.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "occupancy.charger.window.max",
+      "VALUE": 6000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "occupancy.charger.window.min",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "occupancyNotificationEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "offlineThreshold",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "PnC.enableH2bExtension",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "PnC.EvseChargingStationCertConfig",
+      "VALUE": "C=DE,O=IONITY GmbH,CN=HU*IOY*E234402"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "PnC.EvseV2GCertConfig",
+      "VALUE": "C=DE,O=IONITY GmbH,CN=HU*IOY*E234402,DC=CPO"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "reconnectInterval",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "ReserveConnectorZeroSupported",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "ResetRetries",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "RetryBackOffRandomRange",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "RetryBackOffRepeatTimes",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "SecurityProfile",
+      "VALUE": 2
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "SendLocalListMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "setDiagnosticsLevel",
+      "VALUE": "Communication"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "SignedUpdateFirmwareExplicitFtps",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "skipHeartbeatAfterAnotherPDU",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "stop.internal.powerModuleFailure",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "StopTransactionMaxMeterValues",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "StopTransactionOnInvalidId",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "StopTxnAlignedData",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "StopTxnSampledData",
+      "VALUE": "Current.Import,Current.Offered,Energy.Active.Import.Register,Power.Active.Import,Power.Offered,SoC,Temperature.L1,Temperature.L1-N,Temperature.L2,Temperature.L2-N,Temperature.L3,Temperature.N,Voltage"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "StopTxnSampledDataMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "SupportedFeatureProfiles",
+      "VALUE": "LocalAuthListManagement,SmartCharging,Core,RemoteTrigger,FirmwareManagement"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "SupportedFeatureProfilesMaxLength",
+      "VALUE": 5
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "SupportedFileTransferProtocols",
+      "VALUE": "FTP,SFTP,FTPS"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "TransactionMessageAttempts",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "TransactionMessageRetryInterval",
+      "VALUE": 60
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "UnlockConnectorOnEVSideDisconnect",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "UpdateFirmwareExplicitFtps",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "WebSocketPingInterval",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "webSocketPongTimeout",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #02",
+      "PARAMETER": "websocketUrl",
+      "VALUE": "ws://192.168.20.150:6969"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "activation.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "AllowOfflineTxForUnknownId",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "alwaysUsePnCWhenAvailable",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "AuthorizationCacheEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "authorization.factor.evccid",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "authorization.factor.pnc",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "authorization.factor.rfid",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "authorization.idToken.Central.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "authorization.idToken.eMAID.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "authorization.idToken.ISO14443.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "authorization.idToken.ISO15693.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "authorization.idToken.KeyCode.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "authorization.idToken.Local.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "authorization.idToken.MacAddress.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "AuthorizationKey",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "AuthorizationKeyHexadecimalEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "AuthorizeRemoteTxRequests",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "basicAuthUser",
+      "VALUE": "QP-4964"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "CentralContractValidationAllowed",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "CertificateSignedMaxChainSize",
+      "VALUE": 10000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "CertificateStoreMaxLength",
+      "VALUE": 50
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "CertSigningRepeatTimes",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "CertSigningWaitMinimum",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "ChargeProfileMaxStackLevel",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.ccs.din1.EVSEID",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.ccs.iso1.EVSEID",
+      "VALUE": "ZZ00000"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "ChargerId",
+      "VALUE": "QP-4964"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.mt.txsensorlist",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.communication.onPlug",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.eim.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.charging.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.charging.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.charging.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.charging.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.charging.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "websocketUrl",
+      "VALUE": "ws://192.168.20.150:6969"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "webSocketPongTimeout",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "WebSocketPingInterval",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "UpdateFirmwareExplicitFtps",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "UnlockConnectorOnEVSideDisconnect",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "TransactionMessageRetryInterval",
+      "VALUE": 60
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "TransactionMessageAttempts",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "SupportedFileTransferProtocols",
+      "VALUE": "FTP,SFTP,FTPS"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "SupportedFeatureProfilesMaxLength",
+      "VALUE": 5
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "SupportedFeatureProfiles",
+      "VALUE": "LocalAuthListManagement,SmartCharging,Core,RemoteTrigger,FirmwareManagement"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "StopTxnSampledDataMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "StopTxnSampledData",
+      "VALUE": "Current.Import,Current.Offered,Energy.Active.Import.Register,Power.Active.Import,Power.Offered,SoC,Temperature.L1,Temperature.L1-N,Temperature.L2,Temperature.L2-N,Temperature.L3,Temperature.N,Voltage"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "StopTxnAlignedData",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "StopTransactionOnInvalidId",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "StopTransactionMaxMeterValues",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "stop.internal.powerModuleFailure",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "skipHeartbeatAfterAnotherPDU",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "SignedUpdateFirmwareExplicitFtps",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "setDiagnosticsLevel",
+      "VALUE": "Communication"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "SendLocalListMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "SecurityProfile",
+      "VALUE": 2
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "RetryBackOffRepeatTimes",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "RetryBackOffRandomRange",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "ResetRetries",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "ReserveConnectorZeroSupported",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "reconnectInterval",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "PnC.EvseV2GCertConfig",
+      "VALUE": "C=DE,O=IONITY GmbH,CN=HU*IOY*E234403,DC=CPO"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "PnC.EvseChargingStationCertConfig",
+      "VALUE": "C=DE,O=IONITY GmbH,CN=HU*IOY*E234403"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "PnC.enableH2bExtension",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "offlineThreshold",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "occupancyNotificationEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "occupancy.charger.window.min",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "occupancy.charger.window.max",
+      "VALUE": 6000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "occupancy.charger.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "occupancy.charger.delay",
+      "VALUE": 20
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "occupancy.charger.amplitude",
+      "VALUE": 500
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "NumberOfConnectors",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "MT.TxSampleInterval",
+      "VALUE": 300
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "MT.IdleSensorList",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "MT.IdleSampleInterval",
+      "VALUE": 300
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "minOccupancyStateHoldTime",
+      "VALUE": 20
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "MinimumStatusDuration",
+      "VALUE": 2
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "MeterValuesSampledDataMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "MeterValuesSampledData",
+      "VALUE": "Current.Import,Current.Offered,Energy.Active.Import.Register,Power.Active.Import,Power.Offered,SoC,Temperature.L1,Temperature.L1-N,Temperature.L2,Temperature.L2-N,Temperature.L3,Temperature.N,Voltage"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "MeterValueSampleInterval",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "MeterValuesAlignedDataMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "MeterValuesAlignedData",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "MessageTimeout",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "MaxEnergyOnInvalidId",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "MaxChargingProfilesInstalled",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "maintenance.idToken",
+      "VALUE": "mmodetoken"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "maintenance.idleDeactivateTimeout",
+      "VALUE": 300
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "maintenance.enterOnNextReboot",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "maintenance.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "LocalPreAuthorize",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "LocalAuthorizeOffline",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "LocalAuthListMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "LocalAuthListEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "ISO15118PnCEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "initialConnectionWaitInterval",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.welcomeScreenSelection",
+      "VALUE": "HMI_ThermalStructure_navy.jpg"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "hmi.speaker.volume",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.sitePartnerLogo",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.screenTimeoutShort",
+      "VALUE": 5
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.screenTimeoutLong",
+      "VALUE": 60
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.qrCodePayment",
+      "VALUE": "https://ionity.eu/en/network/access-and-payment"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.minHoldTimeScreen",
+      "VALUE": 2
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "hmi.media.version",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.LanguagesList.selectable",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.LanguagesList",
+      "VALUE": "cs,da,de,en,es,et,fi,fr,hr,hu,it,lt,lv,nl,no,pl,pt,sk,sl,sv"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "hmi.halo.forced.scene.duration",
+      "VALUE": 15
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.EuLogoDisplayed",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.directPaymentUnit",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.directPaymentPrice",
+      "VALUE": 280
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.directPaymentCurrency",
+      "VALUE": "HUF"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.defaultLanguageTimeout",
+      "VALUE": 60
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.defaultLanguage",
+      "VALUE": "hu"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.chargeToGo",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HMI.background",
+      "VALUE": "HMI_NavyBackground.jpg"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "HeartbeatInterval",
+      "VALUE": 120
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "GetDiagnosticsExplicitFtps",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "GetDiagnosticsEncryptedDiagnosticsFile",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "GetConfigurationMaxKeys",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "freeModeIdToken",
+      "VALUE": "7bb21b20aa"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "freeModeEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.zeroPower.start",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.zeroPower.restart",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.zeroPower.defaultAction",
+      "VALUE": "Stop"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.timeout.connect",
+      "VALUE": 30000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.timeout.communication",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.target.soc.value",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.target.soc.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.target.price.value",
+      "VALUE": 100000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.target.price.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.target.price.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.target.price.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.target.energy.value",
+      "VALUE": 200000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.target.energy.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.target.energy.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.target.energy.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.target.duration.value",
+      "VALUE": 86400
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.target.duration.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.start.defaultAction",
+      "VALUE": "Charging"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.pnc.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.tls.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.tls.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.tls.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.tls.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.tls.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.pnc.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.pnc.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.pnc.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.pnc.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.pnc.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.max",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.init.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.init.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.init.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.init.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.init.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.charging.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.charging.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.charging.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.charging.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.fallback.charging.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.eim.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.policy.communication.onPlug",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.mt.txsensorlist",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.ccs.iso1.EVSEID",
+      "VALUE": "ZZ00000"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "evse.1.ccs.din1.EVSEID",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "EvInfoMacAddressLength",
+      "VALUE": -1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "EvInfoEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.tariffUnit03",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.tariffUnit02",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.tariffUnit01",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.tariffPrice03",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.tariffPrice02",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.tariffPrice01",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.tariffId03",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.tariffId02",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.tariffId01",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.tariffCurrency03",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.tariffCurrency02",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.tariffCurrency01",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.PublicKey",
+      "VALUE": "3059301306072A8648CE3D020106082A8648CE3D030107034200047F15AE6AD005250312D6CDCEEA8A6B143E979D8836F58F86D282A8C953040DB8D9071461AA181DABCEA2B8140FA7C540E49B7D49CAC90812D4561BE680341E75"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.includePublicKeyInStopTx",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.HexifySignedData",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.fallbackInvalidStatus",
+      "VALUE": "OutOfOrder"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.fallbackError",
+      "VALUE": "OutOfOrder"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "DCMeter.EnableSignedData",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "CpoName",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "ContractValidationOffline",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.zeroPower.start",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.zeroPower.restart",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.zeroPower.defaultAction",
+      "VALUE": "Stop"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.timeout.connect",
+      "VALUE": 30000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.timeout.communication",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.target.soc.value",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.target.soc.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.target.price.value",
+      "VALUE": 100000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.target.price.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.target.price.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.target.price.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.target.energy.value",
+      "VALUE": 200000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.target.energy.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.target.energy.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.target.energy.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.target.duration.value",
+      "VALUE": 86400
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.target.duration.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.start.defaultAction",
+      "VALUE": "Charging"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.pnc.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.tls.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.tls.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.tls.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.tls.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.tls.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.pnc.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.pnc.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.pnc.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.pnc.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.pnc.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.max",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.init.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.init.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.init.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.init.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.init.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.charging.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.charging.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.charging.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.charging.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.fallback.charging.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.eim.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.policy.communication.onPlug",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.mt.txsensorlist",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.ccs.iso1.EVSEID",
+      "VALUE": "ZZ00000"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "connector.1.ccs.din1.EVSEID",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "ConnectionTimeOut",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "ClockAlignedDataInterval",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charging.session.error.persistence",
+      "VALUE": "Unplug"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "ChargingScheduleMaxPeriods",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "ChargingScheduleAllowedChargingRateUnit",
+      "VALUE": "Power"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.serialNumber",
+      "VALUE": "QP-4964-0123-350-121-ION"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.zeroPower.start",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.zeroPower.restart",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.zeroPower.defaultAction",
+      "VALUE": "Stop"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.timeout.connect",
+      "VALUE": 30000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.timeout.communication",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.target.soc.value",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.target.soc.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.target.price.value",
+      "VALUE": 100000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.target.price.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.target.price.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.target.price.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.target.energy.value",
+      "VALUE": 200000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.target.energy.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.target.energy.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.target.energy.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.target.duration.value",
+      "VALUE": 86400
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.target.duration.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.start.select",
+      "VALUE": "Smart"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.start.defaultAction",
+      "VALUE": "Charging"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.pnc.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.tls.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.tls.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.tls.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.tls.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.tls.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.pnc.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.pnc.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.pnc.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.pnc.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.pnc.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.max",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.init.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.init.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.init.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.init.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.init.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #03",
+      "PARAMETER": "charger.policy.fallback.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "LocalAuthorizeOffline",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "AllowOfflineTxForUnknownId",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "alwaysUsePnCWhenAvailable",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "AuthorizationCacheEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "authorization.factor.evccid",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "authorization.factor.pnc",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "authorization.factor.rfid",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "authorization.idToken.Central.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "authorization.idToken.eMAID.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "authorization.idToken.ISO14443.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "authorization.idToken.ISO15693.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "authorization.idToken.KeyCode.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "authorization.idToken.Local.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "authorization.idToken.MacAddress.prefix",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "AuthorizationKey",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "AuthorizationKeyHexadecimalEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "AuthorizeRemoteTxRequests",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "basicAuthUser",
+      "VALUE": "QP-4941"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "CentralContractValidationAllowed",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "CertificateSignedMaxChainSize",
+      "VALUE": 10000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "CertificateStoreMaxLength",
+      "VALUE": 50
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "CertSigningRepeatTimes",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "CertSigningWaitMinimum",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "ChargeProfileMaxStackLevel",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.ccs.din1.EVSEID",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.ccs.iso1.EVSEID",
+      "VALUE": "ZZ00000"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "ChargerId",
+      "VALUE": "QP-4941"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.mt.txsensorlist",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.communication.onPlug",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.eim.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.charging.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.charging.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.charging.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.charging.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.charging.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.init.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.init.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.init.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.init.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.init.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.max",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.pnc.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.pnc.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.pnc.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.pnc.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.pnc.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.tls.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.tls.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.tls.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.tls.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.fallback.tls.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.pnc.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.start.defaultAction",
+      "VALUE": "Charging"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.start.select",
+      "VALUE": "Smart"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.target.duration.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.target.duration.value",
+      "VALUE": 86400
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.target.energy.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.target.energy.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.target.energy.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.target.energy.value",
+      "VALUE": 200000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.target.price.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.target.price.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.target.price.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.target.price.value",
+      "VALUE": 100000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.target.soc.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.target.soc.value",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.timeout.communication",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.timeout.connect",
+      "VALUE": 30000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.zeroPower.defaultAction",
+      "VALUE": "Stop"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.zeroPower.restart",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.policy.zeroPower.start",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charger.serialNumber",
+      "VALUE": "QP-4941-0123-350-121-ION"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "ChargingScheduleAllowedChargingRateUnit",
+      "VALUE": "Power"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "ChargingScheduleMaxPeriods",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "charging.session.error.persistence",
+      "VALUE": "Unplug"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "ClockAlignedDataInterval",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "ConnectionTimeOut",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.ccs.din1.EVSEID",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.ccs.iso1.EVSEID",
+      "VALUE": "ZZ00000"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.mt.txsensorlist",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.communication.onPlug",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.eim.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.charging.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.charging.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.charging.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.charging.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.charging.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.init.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.init.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.init.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.init.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.init.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.max",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.pnc.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.pnc.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.pnc.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.pnc.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.pnc.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.tls.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.tls.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.tls.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.tls.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.fallback.tls.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.pnc.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.start.defaultAction",
+      "VALUE": "Charging"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.target.duration.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.target.duration.value",
+      "VALUE": 86400
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.target.energy.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.target.energy.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.target.energy.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.target.energy.value",
+      "VALUE": 200000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.target.price.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.target.price.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.target.price.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.target.price.value",
+      "VALUE": 100000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.target.soc.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.target.soc.value",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.timeout.communication",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.timeout.connect",
+      "VALUE": 30000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.zeroPower.defaultAction",
+      "VALUE": "Stop"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.zeroPower.restart",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "connector.1.policy.zeroPower.start",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "ContractValidationOffline",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "CpoName",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.EnableSignedData",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.fallbackError",
+      "VALUE": "OutOfOrder"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.fallbackInvalidStatus",
+      "VALUE": "OutOfOrder"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.HexifySignedData",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.includePublicKeyInStopTx",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.PublicKey",
+      "VALUE": "3059301306072A8648CE3D020106082A8648CE3D03010703420004D9A8ADC71E2D3B70AC5E023EDDA7F4F7B3CA4C72DE01264249BD6C57FEB02EAC78C657955AFD25394EF2547E0CD95662363771D620546D70E6EB12B6D3DA96D7"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.tariffCurrency01",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.tariffCurrency02",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.tariffCurrency03",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.tariffId01",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.tariffId02",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.tariffId03",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.tariffPrice01",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.tariffPrice02",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.tariffPrice03",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.tariffUnit01",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.tariffUnit02",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "DCMeter.tariffUnit03",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "EvInfoEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "EvInfoMacAddressLength",
+      "VALUE": -1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.ccs.din1.EVSEID",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.ccs.iso1.EVSEID",
+      "VALUE": "ZZ00000"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.mt.txsensorlist",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.communication.onPlug",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.eim.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.charging.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.charging.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.charging.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.charging.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.charging.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.init.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.init.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.init.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.init.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.init.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.max",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.pnc.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.pnc.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.pnc.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.pnc.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.pnc.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.tls.n",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.tls.options",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.tls.t1",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.tls.t2",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.fallback.tls.t3",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.pnc.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.start.defaultAction",
+      "VALUE": "Charging"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.target.duration.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.target.duration.value",
+      "VALUE": 86400
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.target.energy.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.target.energy.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.target.energy.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.target.energy.value",
+      "VALUE": 200000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.target.price.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.target.price.offset.fixed",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.target.price.offset.relative",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.target.price.value",
+      "VALUE": 100000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.target.soc.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.target.soc.value",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.timeout.communication",
+      "VALUE": 60000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.timeout.connect",
+      "VALUE": 30000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.zeroPower.defaultAction",
+      "VALUE": "Stop"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.zeroPower.restart",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "evse.1.policy.zeroPower.start",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "freeModeEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "freeModeIdToken",
+      "VALUE": "7bb21b20aa"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "GetConfigurationMaxKeys",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "GetDiagnosticsEncryptedDiagnosticsFile",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "GetDiagnosticsExplicitFtps",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HeartbeatInterval",
+      "VALUE": 600
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.background",
+      "VALUE": "HMI_NavyBackground.jpg"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.chargeToGo",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.defaultLanguage",
+      "VALUE": "hu"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.defaultLanguageTimeout",
+      "VALUE": 60
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.directPaymentCurrency",
+      "VALUE": "HUF"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.directPaymentPrice",
+      "VALUE": 280
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.directPaymentUnit",
+      "VALUE": "kWh"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.EuLogoDisplayed",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "hmi.halo.forced.scene.duration",
+      "VALUE": 15
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.LanguagesList",
+      "VALUE": "cs,da,de,en,es,et,fi,fr,hr,hu,it,lt,lv,nl,no,pl,pt,sk,sl,sv"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.LanguagesList.selectable",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "hmi.media.version",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.minHoldTimeScreen",
+      "VALUE": 2
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.qrCodePayment",
+      "VALUE": "https://ionity.eu/en/network/access-and-payment"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.screenTimeoutLong",
+      "VALUE": 60
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.screenTimeoutShort",
+      "VALUE": 5
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.sitePartnerLogo",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "hmi.speaker.volume",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "HMI.welcomeScreenSelection",
+      "VALUE": "HMI_ThermalStructure_navy.jpg"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "initialConnectionWaitInterval",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "ISO15118PnCEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "LocalAuthListEnabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "LocalAuthListMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "activation.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "LocalPreAuthorize",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "maintenance.enabled",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "maintenance.enterOnNextReboot",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "maintenance.idleDeactivateTimeout",
+      "VALUE": 300
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "maintenance.idToken",
+      "VALUE": "mmodetoken"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "MaxChargingProfilesInstalled",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "MaxEnergyOnInvalidId",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "MessageTimeout",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "MeterValuesAlignedData",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "MeterValuesAlignedDataMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "MeterValueSampleInterval",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "MeterValuesSampledData",
+      "VALUE": "Current.Import,Current.Offered,Energy.Active.Import.Register,Power.Active.Import,Power.Offered,SoC,Temperature.L1,Temperature.L1-N,Temperature.L2,Temperature.L2-N,Temperature.L3,Temperature.N,Voltage"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "MeterValuesSampledDataMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "MinimumStatusDuration",
+      "VALUE": 2
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "minOccupancyStateHoldTime",
+      "VALUE": 20
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "MT.IdleSampleInterval",
+      "VALUE": 300
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "MT.IdleSensorList",
+      "VALUE": "ResistanceBody,TEMP_BODY_LOWER,TEMP_BODY_SAT,TEMP_BODY_UPPER,TEMP_COMBO_MINUS_CONNECTOR,TEMP_COMBO_MINUS_COOLANT,TEMP_COMBO_MINUS_INSULATION,TEMP_COMBO_PLUS_CONNECTOR,TEMP_COMBO_PLUS_COOLANT,TEMP_COMBO_PLUS_INSULATION,TEMP_INPUT_MODULE,TEMP_INPUT_SAT,TEMP_OUTPUT_MODULE"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "MT.TxSampleInterval",
+      "VALUE": 300
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "NumberOfConnectors",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "occupancy.charger.amplitude",
+      "VALUE": 500
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "occupancy.charger.delay",
+      "VALUE": 20
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "occupancy.charger.enabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "occupancy.charger.window.max",
+      "VALUE": 6000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "occupancy.charger.window.min",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "occupancyNotificationEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "offlineThreshold",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "PnC.enableH2bExtension",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "PnC.EvseChargingStationCertConfig",
+      "VALUE": "C=DE,O=IONITY GmbH,CN=HU*IOY*E234404"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "PnC.EvseV2GCertConfig",
+      "VALUE": "C=DE,O=IONITY GmbH,CN=HU*IOY*E234404,DC=CPO"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "reconnectInterval",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "ReserveConnectorZeroSupported",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "ResetRetries",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "RetryBackOffRandomRange",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "RetryBackOffRepeatTimes",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "SecurityProfile",
+      "VALUE": 2
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "SendLocalListMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "setDiagnosticsLevel",
+      "VALUE": "Communication"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "SignedUpdateFirmwareExplicitFtps",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "skipHeartbeatAfterAnotherPDU",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "stop.internal.powerModuleFailure",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "StopTransactionMaxMeterValues",
+      "VALUE": 0
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "StopTransactionOnInvalidId",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "StopTxnAlignedData",
+      "VALUE": ""
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "StopTxnSampledData",
+      "VALUE": "Current.Import,Current.Offered,Energy.Active.Import.Register,Power.Active.Import,Power.Offered,SoC,Temperature.L1,Temperature.L1-N,Temperature.L2,Temperature.L2-N,Temperature.L3,Temperature.N,Voltage"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "StopTxnSampledDataMaxLength",
+      "VALUE": 1000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "SupportedFeatureProfiles",
+      "VALUE": "LocalAuthListManagement,SmartCharging,Core,RemoteTrigger,FirmwareManagement"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "SupportedFeatureProfilesMaxLength",
+      "VALUE": 5
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "SupportedFileTransferProtocols",
+      "VALUE": "FTP,SFTP,FTPS"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "TransactionMessageAttempts",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "TransactionMessageRetryInterval",
+      "VALUE": 60
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "UnlockConnectorOnEVSideDisconnect",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "UpdateFirmwareExplicitFtps",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "WebSocketPingInterval",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "webSocketPongTimeout",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - CCS #04",
+      "PARAMETER": "websocketUrl",
+      "VALUE": "ws://192.168.20.150:6969"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "WebSocketPingInterval",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "TransactionMessageRetryInterval",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "TransactionMessageAttempts",
+      "VALUE": 20
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "SupportedFeatureProfiles",
+      "VALUE": "Core, Firmware Management, Local Auth List Management, Remote Trigger"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "ServerURL",
+      "VALUE": "wss://ocpp.ionity.cloud/16"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "ResetRetries",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "ReconnectToServerInterval",
+      "VALUE": 5000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "powerManagementSendCalculatedPowerPlanInfo",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "powerManagementRecalculateInterval",
+      "VALUE": 5
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "powerManagementPermanentlyEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "powerManagementIncreaseDelay",
+      "VALUE": 3
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "powerManagementDefaultPriority",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "powerManagementDefaultMaxPower",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "powerManagementCurrentPowerAdjustmentMinPower",
+      "VALUE": 10
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "powerManagementCurrentPowerAdjustmentFactor",
+      "VALUE": 0.02
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "powerManagementChargePointsMaxPower",
+      "VALUE": "350,350,350,350"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "powerManagementChargePointsDefaultPower",
+      "VALUE": "197,197,197,197"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "powerManagementChargePoints",
+      "VALUE": "QP-4945,QP-4965,QP-4964,QP-4941"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "powerManagementAutoconfiguration",
+      "VALUE": false
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "MinimumStatusDuration",
+      "VALUE": 1
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "LocalAuthListMaxLength",
+      "VALUE": 100000
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "LocalAuthListEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "LM.Strategy",
+      "VALUE": "STANDARD"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "LM.SmartChargingProfilePriority",
+      "VALUE": "1,1,1,1"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "LM.SiteMaxBudget",
+      "VALUE": 380
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "LM.SiteGridLimit",
+      "VALUE": 380
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "LM.RecalcInterval",
+      "VALUE": 30
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "LM.LoadManagementEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "LM.DefaultBudget",
+      "VALUE": 197
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "HeartbeatInterval",
+      "VALUE": 600
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "GetConfigurationMaxKeys",
+      "VALUE": 100
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "controllerListenPort",
+      "VALUE": 6969
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "controllerListenHost",
+      "VALUE": "0.0.0.0"
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "controllerConnectionEnabled",
+      "VALUE": true
+    },
+    {
+      "STATION_NAME": "IONITY Gelej (dir. Miskolc/Debrecen) - LSCC",
+      "PARAMETER": "ChargePointIdentity",
+      "VALUE": "QP-6556"
+    }
+  ]
