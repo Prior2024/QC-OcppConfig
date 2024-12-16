@@ -1,0 +1,44 @@
+{
+  "basicAuthUser": "QP-XXXX",
+  "ChargerId": "QP-XXXX",
+  "HMI": {
+    "defaultLanguage": null,
+    "LanguagesList": "cs,da,de,en,es,et,fi,fr,hr,hu,it,lt,lv,nl,no,pl,pt,sk,sl,sv",
+    "directPaymentCurrency": {
+      "EUR": [
+        "Germany",
+        "France",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "Finland",
+        "Lithuania",
+        "Latvia",
+        "Belgium",
+        "Estonia",
+        "Ireland"
+      ],
+      "NOK": ["Norway"],
+      "SEK": ["Sweden"],
+      "GBP": ["United Kingdom"],
+      "CHF": ["Switzerland"],
+      "DKK": ["Denmark"],
+      "CZK": ["Czech Republic"],
+      "PLN": ["Poland"]
+    },
+    "directPaymentPrice": "Please use the following link to find the required Pricing to direct customers:",
+    "directPaymentUnit": "kWh",
+    "EuLogoDisplayed": true
+  },
+  "PnC": {
+    "EvseChargingStationCertConfig": "C=DE,O=IONITY GmbH,CN=\"Connector's EVSEID\"",
+    "EvseV2GCertConfig": "C=DE,O=IONITY GmbH,CN=\"Connector's EVSEID\",DC=CPO"
+  },
+  "webSocketPongTimeout": 30,
+  "DCMeter": {
+    "fallbackInvalidStatus": "OutOfOrder",
+    "fallbackError": "OutOfOrder"
+  },
+  "LocalAuthListEnabled": false,
+  "LocalAuthorizeOffline": false
+}

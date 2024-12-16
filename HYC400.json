@@ -1,0 +1,15 @@
+{
+  "chargePointIdentity": "Site Specific - use Charger serial number (example '23BZ6971D')",
+  "connectorEvseIds": ["DE*IOY*E221271", "DE*IOY*E221272"],
+  "GUIConnectorHolderColors": ["0xFA0000", "0xFFFFFF", "0x642049", "0x642049", "0xFA0000"],
+  "GUIconnectorLabels": ["71", "72"],
+  "GUIprimaryLanguage": "English",
+  "GUIsecondaryLanguage": "Deutsch",
+  "GUItertiaryLanguage": "Francais",
+  "GUIslideTime": 0,
+  "ISO15118PnCEnabled": true,
+  "SeccLeafSubjectCommonName": "DE*IOY*E221200",
+  "SeccLeafSubjectCountry": "DE",
+  "HycKioskModeEnabled": false,
+  "AutoCertSignRequests": "V2G"
+}

@@ -1,0 +1,11 @@
+{
+  "FreevendEnabled": {
+    "true": "Free mode",
+    "false": "Pay mode"
+  },
+  "FreevendIdTag": {
+    "NOA": "for all EU countries except Portugal",
+    "E6A33B78": "warning only for Portugal"
+  },
+  "WebSocketPingInterval": 30
+}

@@ -1,0 +1,58 @@
+{
+  "AllowOfflineTxForUnknownId": true,
+  "AuthorizationCacheEnabled": false,
+  "AuthorizeRemoteTxRequests": false,
+  "HeartbeatInterval": 600,
+  "HMI": {
+    "directPaymentCurrency": "Country specific e.g. EUR (check How much does it cost to charge at IONITY?)",
+    "directPaymentPrice": "Country specific e.g. 0.79 (check How much does it cost to charge at IONITY?)",
+    "directPaymentUnit": "kWh"
+  },
+  "MeterValuesAlignedData": [
+    "SoC",
+    "Energy.Active.Import.Register",
+    "Current.Import",
+    "Power.Active.Import",
+    "Voltage"
+  ],
+  "MeterValuesSampledData": [
+    "SoC",
+    "Energy.Active.Import.Register",
+    "Current.Import",
+    "Power.Active.Import",
+    "Voltage"
+  ],
+  "MeterValueSampleInterval": 30,
+  "ConnectionTimeOut": 120,
+  "LocalAuthListEnabled": false,
+  "LocalAuthorizeOffline": false,
+  "LocalPreauthorize": false,
+  "StopTransactionOnInvalidId": false,
+  "StopTxnSampledData": [
+    "SoC",
+    "Energy.Active.Import.Register"
+  ],
+  "StopTxnAlignedData": [
+    "SoC",
+    "Energy.Active.Import.Register"
+  ],
+  "FallbackDelay": 60,
+  "FreevendEnabled": {
+    "true": "Free mode",
+    "false": "Pay mode"
+  },
+  "FreevendIdTag": {
+    "Portugal": "E6A33B78",
+    "EU": "NOA"
+  },
+  "WebSocketPingInterval": 30,
+  "PlugAndChargeActivationRequest": "Not applicable for Portuguese sites",
+  "EvseV2GCertConfig": {
+    "C": "DE",
+    "O": "IONITY GmbH",
+    "CN": "Connector's EVSEID"
+  },
+  "EVSEID": {
+    "example": "DE*IOY*E999004"
+  }
+}

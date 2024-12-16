@@ -1,0 +1,24 @@
+{
+  "FreevendIdTag": {
+    "NOA": "for all EU countries except Portugal",
+    "E6A33B78": "warning only for Portugal"
+  },
+  "HMI": {
+    "directPaymentCurrency": "Country specific e.g. EUR (check How much does it cost to charge at IONITY?)",
+    "directPaymentPrice": "Country specific e.g. 0.79 (check How much does it cost to charge at IONITY?)",
+    "directPaymentUnit": "kWh"
+  },
+  "WebSocketPingInterval": 30,
+  "PlugAndChargeActivationRequest": "Not applicable for Portuguese sites",
+  "EvseV2GCertConfig": {
+    "C": "DE",
+    "O": "IONITY GmbH",
+    "CN": "Connector's EVSEID",
+    "DC": "Direct Charge",
+    "Example": "C=DE,O=IONITY GmbH,CN=DE*IOY*E999004,DC=CPO"
+  },
+  "EVSEID": {
+    "ConnectorEVSEIDNumber": "e.g. DE*IOY*E999004"
+  },
+  "ISO15118PnCEnabled": true
+}
